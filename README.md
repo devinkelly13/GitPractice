@@ -1,2 +1,4 @@
+ 
 new file
-# GitPractice
+
+Hello  GitPractice
